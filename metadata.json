@@ -1,0 +1,6 @@
+{
+  "name": "GIZA Soportes & Validador RIPS",
+  "description": "Sistema de gestión y persistencia de soportes médicos, conciliación de facturas con validador RIPS, directorio de facturadores con alias y notificación por WhatsApp Web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
